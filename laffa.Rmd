@@ -1,6 +1,6 @@
 ---
 title: "Laffa recept"
-author: "Miklos Bognar"
+author: "elte ppk best practices class"
 date: '2021-03-30'
 output: html_document
 knit: (function(inputFile, encoding) {
@@ -14,7 +14,7 @@ knit: (function(inputFile, encoding) {
 
 ### Leírás
 
-A [laffa](https://en.wikipedia.org/wiki/Laffa) egy közel-keleti száraz serpenyőben megsütött kovászos lepény, melyet apróra vágott sült hússal, zöldségekkel, vagy éppen sajttal tölthetünk meg egy kiadós vacsorához.
+A [laffa](https://en.wikipedia.org/wiki/Laffa) egy közel-keleti, száraz serpenyőben megsütött kovászos lepény, melyet apróra vágott sült hússal, zöldségekkel, vagy éppen sajttal tölthetünk meg egy kiadós vacsorához.
 
 ### Hozzávalók
 
@@ -45,8 +45,13 @@ A [laffa](https://en.wikipedia.org/wiki/Laffa) egy közel-keleti száraz serpeny
 
 9. A gömböket egy lisztezett gyúródeszkán kinyújtjuk.
 
-10. A forrá serpenyőben előbb az egyik, majd a másik oldalát megsütjük. **(Figyeljünk oda, mert hamar megég, egy-egy perc elegendő mindkét oldalnak ahhoz, hogy átsüljön a laffa)**
+10. A forró serpenyőben előbb az egyik, majd a másik oldalát megsütjük. **(Figyeljünk oda, mert hamar megég, egy-egy perc elegendő mindkét oldalnak ahhoz, hogy átsüljön a laffa)**
 
 11. A megsütött laffákat egy tányéron **nedves** konyharuhával letakarva felhalmozva tároljuk.
+
+
+*Ez egy Rmarkdown demostrációs feladatban elkészült oldal.*
+
+forrás: [zsido.com](https://zsido.com/koser-gasztro-laffa/)
 
 
