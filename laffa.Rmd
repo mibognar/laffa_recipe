@@ -3,7 +3,11 @@ title: "Laffa recept"
 author: "Miklos Bognar"
 date: '2021-03-30'
 output: html_document
+knit: (function(inputFile, encoding) {
+    rmarkdown::render(inputFile, encoding = encoding, output_file = "index.html")
+  })
 ---
+
 
 <img src="laffa.jpg" width="400" height="250">
 
